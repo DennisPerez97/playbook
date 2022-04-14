@@ -1,4 +1,4 @@
-const logger = require('./logger')
+require('./patcher') // Llamas este módulo que modifica el objeto instanciado
+const logger = require('./logger') // Al llamar el módulo en logger.js te dará el objeto modificado
 
-logger.info('This is an informational message')
-logger.verbose('This is a verbose message')
+logger.customMessage()

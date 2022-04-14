@@ -1,17 +1,14 @@
-// logger.js
+class Logger {
+  constructor (name) {
+    this.count = 0
+    this.name = name
+  }
 
-// Esta es una función que se guardara en este módulo como info
-exports.info = (message) => {
-    console.log(`info: ${message}`)
+  log (message) {
+    this.count++
+    console.log('[' + this.name + '] ' + message)
   }
-  
-  // Esta es una función que se guardara en este módulo como verbose
-  exports.verbose = (message) => {
-    console.log(`verbose: ${message}`)
-  }
-  
-  /*
-    const logger = require('./logger')
-    logger.info('This is an informational message')
-    logger.verbose('This is a verbose message')
-   * */
+}
+
+module.exports = new Logger('DEFAULT') // Nuevo objeto instanciado
+module.exports.Logger = Logger // Clase

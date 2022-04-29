@@ -22,4 +22,10 @@ describe("Pruebas de unidad de usuario", () =>{
          const usuario = new User(10, "Miniempoleon", "Dennis Perez","Bio")
          expect(usuario.getUserName).toBe("Miniempoleon")
      });
+     test('Caso de prueba 4: Setters', () =>{
+        // expect(3).toBe(10)
+         const usuario = new User(10, "Miniempoleon", "Dennis Perez","Bio")
+         usuario.setUserName = "Chikitopoleon"
+         expect(usuario.getUserName).toBe("Chikitopoleon")
+     });
 })

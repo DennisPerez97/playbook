@@ -7,5 +7,8 @@ class User {
         this.dateCreated = new Date()
         this.lastUpdate = this.dateCreated
     }
+    get getUserName(){
+        return this.user
+    }
 }
 module.exports = User

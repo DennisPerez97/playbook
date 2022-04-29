@@ -17,4 +17,9 @@ describe("Pruebas de unidad de usuario", () =>{
          expect(usuario.dateCreated).not.toBeUndefined()
          expect(usuario.lastUpdate).not.toBeUndefined()
      });
+     test('Caso de prueba 3: Getters', () =>{
+        // expect(3).toBe(10)
+         const usuario = new User(10, "Miniempoleon", "Dennis Perez","Bio")
+         expect(usuario.getUserName).toBe("Miniempoleon")
+     });
 })

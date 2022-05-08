@@ -3,16 +3,11 @@ Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`my_launchx_app`|1|
-<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/myfirst_js_project" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
-|`spiderverse`|2|
-<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/marvel" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
-|`twitter`|3, 4, 5|
-<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/twitter" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
-|`express_basic`|6|
-<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/express_basic" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
-|`express_api`|7|
-<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/express_api" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
+|`my_launchx_app`|1|<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/myfirst_js_project" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
+|`spiderverse`|2|<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/marvel" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
+|`twitter`|3, 4, 5|<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/twitter" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
+|`express_basic`|6|<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/express_basic" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
+|`express_api`|7|<a href="https://github.com/DennisPerez97/playbook/tree/main/weekly_mission_3/express_api" target="_blank"><img src="https://img.shields.io/badge/🔗link-PRACTICA1-blue?style=for-the-badge"></a>|
 
   # 🚀 Objetivos Cumplidos
   
